@@ -5,8 +5,8 @@ Workspace root for the public-facing deletion request page (Vite + React).
 ## Clone (fresh)
 
 ```bash
-git clone --recurse-submodules https://github.com/Wynemods/MOTO-RIDES-GOOGLE-FRONTEND-WORKSPACE.git
-cd MOTO-RIDES-GOOGLE-FRONTEND-WORKSPACE
+git clone --recurse-submodules https://github.com/Wynemods/motorides-google-frontend-workspace.git
+cd motorides-google-frontend-workspace
 cd Frontend
 npm install
 cp .env.example .env
